@@ -1,1 +1,1 @@
-Criando um arquivo teste para tentar desbloquear uma conquista "Pair Extraordinaire" no GitHub
+Criando um arquivo teste para desbloquear uma conquista "Pair Extraordinaire" no GitHub
